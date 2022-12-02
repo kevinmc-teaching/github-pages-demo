@@ -1,0 +1,17 @@
+
+body {
+  background-image: url("../images/bg.jpg");
+  background-size: cover;
+  background-repeat: none;
+  background-position: bottom center;
+  margin: 0;
+  padding: 0;
+  color: white;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
